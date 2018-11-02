@@ -2,4 +2,18 @@
   display: flex;
   width: 60vw;
   justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.team-member-btn {
+  font-size: calc(15px + 2vmin);
+  background: none;
+  border: 1px solid white;
+  border-radius: 12px;
+  cursor: pointer;
+  text-shadow: white 0 0 10px;
+}
+
+.team-member-btn:focus {
+  outline: none;
 }

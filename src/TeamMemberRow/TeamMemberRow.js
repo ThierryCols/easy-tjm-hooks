@@ -1,4 +1,5 @@
 import React from "react";
+import "./tmr.css";
 
 class TeamMemberRow extends React.Component {
   render() {

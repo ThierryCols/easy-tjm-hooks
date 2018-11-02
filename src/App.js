@@ -35,9 +35,7 @@ class App extends Component {
     return (
       <div className="App">
         <img src={logo} className="App-logo" alt="logo" />
-        <div>
-          Edit <code>src/App.js</code> and save to reload.
-        </div>
+        <div>Add some members to your team:</div>
         <TeamMemberButtons addTeamMember={this.addTeamMember} />
         <TeamMemberTable>
           {teamMembers.map((teamMember, idx) => (
