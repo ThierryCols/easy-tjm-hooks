@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/easy-tjm-hooks/static/js/runtime~main.8abeadd2.js"
   },
   {
-    "revision": "6d68b40bba651a1c7165",
-    "url": "/easy-tjm-hooks/static/js/main.6d68b40b.chunk.js"
+    "revision": "7baafe5cdd5770da4fa3",
+    "url": "/easy-tjm-hooks/static/js/main.7baafe5c.chunk.js"
   },
   {
     "revision": "b58634ce912f8c35b32a",
     "url": "/easy-tjm-hooks/static/js/1.b58634ce.chunk.js"
   },
   {
-    "revision": "6d68b40bba651a1c7165",
-    "url": "/easy-tjm-hooks/static/css/main.b656cbfa.chunk.css"
+    "revision": "7baafe5cdd5770da4fa3",
+    "url": "/easy-tjm-hooks/static/css/main.5e048ff8.chunk.css"
   },
   {
-    "revision": "682da534923d9c8f6c1166248f4f3808",
+    "revision": "585b1a779433975d16853acad0a6365d",
     "url": "/easy-tjm-hooks/index.html"
   }
 ];
