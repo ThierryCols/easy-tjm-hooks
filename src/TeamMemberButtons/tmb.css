@@ -12,8 +12,17 @@
   border-radius: 12px;
   cursor: pointer;
   text-shadow: white 0 0 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
+.team-member-btn span {
+  color: white;
+  text-shadow: none;
+  font-size: 12px;
+  font-family: "Comic Sans Ms";
+}
 .team-member-btn:focus {
   outline: none;
 }
