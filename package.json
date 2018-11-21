@@ -5,7 +5,7 @@
   "homepage": "http://thierrycols.github.io/easy-tjm-hooks",
   "dependencies": {
     "react": "^16.7.0-alpha",
-    "react-dom": "^16.6.0",
+    "react-dom": "^16.7.0-alpha",
     "react-scripts": "2.1.1"
   },
   "scripts": {
